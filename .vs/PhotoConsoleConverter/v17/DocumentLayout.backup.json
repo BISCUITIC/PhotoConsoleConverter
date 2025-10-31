@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dima\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\Visual Studio\\PhotoConsoleConverter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9BDF1306-B22F-45EF-B318-D2C2579DB9A9}|PhotoConsoleConverter\\PhotoConsoleConverter.csproj|c:\\users\\dima\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\visual studio\\photoconsoleconverter\\photoconsoleconverter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BDF1306-B22F-45EF-B318-D2C2579DB9A9}|PhotoConsoleConverter\\PhotoConsoleConverter.csproj|solutionrelative:photoconsoleconverter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BDF1306-B22F-45EF-B318-D2C2579DB9A9}|PhotoConsoleConverter\\PhotoConsoleConverter.csproj|c:\\users\\dima\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\visual studio\\photoconsoleconverter\\photoconsoleconverter\\photoconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BDF1306-B22F-45EF-B318-D2C2579DB9A9}|PhotoConsoleConverter\\PhotoConsoleConverter.csproj|solutionrelative:photoconsoleconverter\\photoconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BDF1306-B22F-45EF-B318-D2C2579DB9A9}|PhotoConsoleConverter\\PhotoConsoleConverter.csproj|c:\\users\\dima\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\visual studio\\photoconsoleconverter\\photoconsoleconverter\\consoleinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BDF1306-B22F-45EF-B318-D2C2579DB9A9}|PhotoConsoleConverter\\PhotoConsoleConverter.csproj|solutionrelative:photoconsoleconverter\\consoleinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BDF1306-B22F-45EF-B318-D2C2579DB9A9}|PhotoConsoleConverter\\PhotoConsoleConverter.csproj|c:\\users\\dima\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\visual studio\\photoconsoleconverter\\photoconsoleconverter\\consoldrawer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BDF1306-B22F-45EF-B318-D2C2579DB9A9}|PhotoConsoleConverter\\PhotoConsoleConverter.csproj|solutionrelative:photoconsoleconverter\\consoldrawer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BDF1306-B22F-45EF-B318-D2C2579DB9A9}|PhotoConsoleConverter\\PhotoConsoleConverter.csproj|c:\\users\\dima\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\visual studio\\photoconsoleconverter\\photoconsoleconverter\\colormatrix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BDF1306-B22F-45EF-B318-D2C2579DB9A9}|PhotoConsoleConverter\\PhotoConsoleConverter.csproj|solutionrelative:photoconsoleconverter\\colormatrix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BDF1306-B22F-45EF-B318-D2C2579DB9A9}|PhotoConsoleConverter\\PhotoConsoleConverter.csproj|c:\\users\\dima\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\visual studio\\photoconsoleconverter\\photoconsoleconverter\\imatrix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BDF1306-B22F-45EF-B318-D2C2579DB9A9}|PhotoConsoleConverter\\PhotoConsoleConverter.csproj|solutionrelative:photoconsoleconverter\\imatrix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConsoleInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Dima\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\Visual Studio\\PhotoConsoleConverter\\PhotoConsoleConverter\\ConsoleInfo.cs",
+              "RelativeDocumentMoniker": "PhotoConsoleConverter\\ConsoleInfo.cs",
+              "ToolTip": "C:\\Users\\Dima\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\Visual Studio\\PhotoConsoleConverter\\PhotoConsoleConverter\\ConsoleInfo.cs",
+              "RelativeToolTip": "PhotoConsoleConverter\\ConsoleInfo.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAA0wBEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T17:06:40.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConsolDrawer.cs",
+              "DocumentMoniker": "C:\\Users\\Dima\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\Visual Studio\\PhotoConsoleConverter\\PhotoConsoleConverter\\ConsolDrawer.cs",
+              "RelativeDocumentMoniker": "PhotoConsoleConverter\\ConsolDrawer.cs",
+              "ToolTip": "C:\\Users\\Dima\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\Visual Studio\\PhotoConsoleConverter\\PhotoConsoleConverter\\ConsolDrawer.cs",
+              "RelativeToolTip": "PhotoConsoleConverter\\ConsolDrawer.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T17:01:48.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ColorMatrix.cs",
+              "DocumentMoniker": "C:\\Users\\Dima\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\Visual Studio\\PhotoConsoleConverter\\PhotoConsoleConverter\\ColorMatrix.cs",
+              "RelativeDocumentMoniker": "PhotoConsoleConverter\\ColorMatrix.cs",
+              "ToolTip": "C:\\Users\\Dima\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\Visual Studio\\PhotoConsoleConverter\\PhotoConsoleConverter\\ColorMatrix.cs",
+              "RelativeToolTip": "PhotoConsoleConverter\\ColorMatrix.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T15:18:38.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IMatrix.cs",
+              "DocumentMoniker": "C:\\Users\\Dima\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\Visual Studio\\PhotoConsoleConverter\\PhotoConsoleConverter\\IMatrix.cs",
+              "RelativeDocumentMoniker": "PhotoConsoleConverter\\IMatrix.cs",
+              "ToolTip": "C:\\Users\\Dima\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\Visual Studio\\PhotoConsoleConverter\\PhotoConsoleConverter\\IMatrix.cs",
+              "RelativeToolTip": "PhotoConsoleConverter\\IMatrix.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T15:17:24.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PhotoConverter.cs",
+              "DocumentMoniker": "C:\\Users\\Dima\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\Visual Studio\\PhotoConsoleConverter\\PhotoConsoleConverter\\PhotoConverter.cs",
+              "RelativeDocumentMoniker": "PhotoConsoleConverter\\PhotoConverter.cs",
+              "ToolTip": "C:\\Users\\Dima\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\Visual Studio\\PhotoConsoleConverter\\PhotoConsoleConverter\\PhotoConverter.cs",
+              "RelativeToolTip": "PhotoConsoleConverter\\PhotoConverter.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA1wBoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T15:03:45.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dima\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\Visual Studio\\PhotoConsoleConverter\\PhotoConsoleConverter\\Program.cs",
+              "RelativeDocumentMoniker": "PhotoConsoleConverter\\Program.cs",
+              "ToolTip": "C:\\Users\\Dima\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\Visual Studio\\PhotoConsoleConverter\\PhotoConsoleConverter\\Program.cs*",
+              "RelativeToolTip": "PhotoConsoleConverter\\Program.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAQwB4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T11:12:49.432Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
