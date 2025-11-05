@@ -50,7 +50,7 @@ internal class PhotoConverter : IDisposable
     }
 
     private Color GetChunkAvarageColor(int posX, int posY)
-    {     
+    {
         int avgR = 0;
         int avgB = 0;
         int avgG = 0;

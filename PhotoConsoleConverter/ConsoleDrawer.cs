@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Drawing;
-using System.Drawing.Imaging;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Drawing;
 
 namespace PhotoConsoleConverter;
 
@@ -12,7 +6,7 @@ internal class ConsoleDrawer
 {
     private readonly ConsoleInfo _consoleInfo;
 
-    public ConsoleDrawer(ConsoleInfo consoleInfo) 
+    public ConsoleDrawer(ConsoleInfo consoleInfo)
     {
         _consoleInfo = consoleInfo;
     }
@@ -21,14 +15,15 @@ internal class ConsoleDrawer
     {
         for (int i = 0; i < matrix.Height; i++)
             for (int j = 0; j < matrix.Width; j++)
-                SetChankConsoleColor(j * _consoleInfo.NormalizationX, 
-                                     i * _consoleInfo.NormalizationY, 
+                SetChankConsoleColor(j * _consoleInfo.NormalizationX,
+                                     i * _consoleInfo.NormalizationY,
                                      matrix[i, j]);
     }
 
     private void SetChankConsoleColor(int posX, int posY, Color color)
     {
-        for(int i = 0; i < _consoleInfo.NormalizationX; i++) {
+        for (int i = 0; i < _consoleInfo.NormalizationX; i++)
+        {
             for (int j = 0; j < _consoleInfo.NormalizationY; j++)
             {
                 Console.SetCursorPosition(posX + i, posY + j);

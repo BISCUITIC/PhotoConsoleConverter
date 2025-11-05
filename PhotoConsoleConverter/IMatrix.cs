@@ -1,11 +1,9 @@
-﻿using System.Drawing;
-
-namespace PhotoConsoleConverter;
+﻿namespace PhotoConsoleConverter;
 
 internal interface IMatrix<T>
 {
     int Width { get; }
     int Height { get; }
-    
-    T this[int y, int x] { get;}
+
+    T this[int y, int x] { get; }
 }

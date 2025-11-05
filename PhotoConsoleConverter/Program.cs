@@ -1,10 +1,6 @@
-﻿using System.Collections.Specialized;
-using System.Drawing;
-using System.IO;
+﻿using System.Drawing;
 
 namespace PhotoConsoleConverter;
-
-
 
 internal class Program
 {
@@ -15,21 +11,24 @@ internal class Program
     private const int NORMALIZATION_Y = 1;
 
     private static void Main(string[] args)
-    {        
-        string filePath = "Lenin.jpg";
+    {
+        string filePath = "Data\\Lenin.jpg";
 
-        ConsoleInfo info = new ConsoleInfo(sizeY: 30);
+        ConsoleInfo info = new ConsoleInfo(CONSOLE_SIZE_X,
+                                           CONSOLE_SIZE_Y,
+                                           NORMALIZATION_X,
+                                           NORMALIZATION_Y);
+
         ConsoleDrawer drawer = new ConsoleDrawer(info);
+        IMatrix<Color> colorMatrix;
 
         using (PhotoConverter photoConverter = new PhotoConverter(new Bitmap(filePath), info))
         {
-            IMatrix<Color> colorMatrix = photoConverter.GetColorsMatrix();
-
-            drawer.DrawColorMatrix(colorMatrix);
+            colorMatrix = photoConverter.GetColorsMatrix();
         }
+
+        drawer.DrawColorMatrix(colorMatrix);
 
         Console.SetCursorPosition(0, 29);
     }
-
-    
 }

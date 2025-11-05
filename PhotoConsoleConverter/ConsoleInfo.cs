@@ -14,11 +14,6 @@ internal struct ConsoleInfo
     public int NormalizationX => _normalizationX;
     public int NormalizationY => _normalizationY;
 
-    public ConsoleInfo()
-    {
-
-    }
-
     public ConsoleInfo(int sizeX = 120, int sizeY = 30, int normalizationX = 2, int normalizationY = 1)
     {
         _sizeX = sizeX;
