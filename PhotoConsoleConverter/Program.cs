@@ -12,7 +12,8 @@ internal class Program
 
     private static void Main(string[] args)
     {
-        string filePath = "Data\\Lenin.jpg";
+        string filePath = args[0];
+        Console.Clear();
 
         ConsoleInfo info = new ConsoleInfo(CONSOLE_SIZE_X,
                                            CONSOLE_SIZE_Y,
